@@ -57,6 +57,7 @@ weather in delhi
 bye
 ```
 ## System Architecture
+```
 The chatbot works using the following pipeline:
 User Input
     ↓
@@ -71,7 +72,7 @@ Dialogue Manager (Context)
 Rule-Based Response Generator
     ↓
 Chatbot Response
-
+```
 ## Technologies Used
 •	Python 
 •	Regular Expressions (Regex) 
