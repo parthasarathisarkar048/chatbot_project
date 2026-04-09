@@ -18,6 +18,7 @@ The chatbot includes the following features:
 •	Real-time data support (Weather API optional) 
 
 ## Project Folder Structure
+```
 chatbot_project/
 │
 ├── app.py
@@ -29,6 +30,7 @@ chatbot_project/
 ├── api_module.py
 ├── knowledge_base.json
 └── README.md
+...
 
 ## How to Run the Chatbot
 Follow these steps:
