@@ -1,11 +1,11 @@
-**Project Title
+# Project Title
 Rule-Based Restaurant Chatbot with Entity Extraction, Emotion Recognition and Dialogue Management
 
-**Project Description
+## Project Description
 This project is a rule-based chatbot developed using Python. The chatbot can interact with users, understand basic intents, extract entities like name and city, detect emotions, maintain conversation context, and provide responses based on predefined rules. The chatbot can also be integrated with a restaurant website for menu display, ordering, and table booking.
 This project is part of the Conversational AI / Conventional AI coursework.
 
-**Features
+## Features
 The chatbot includes the following features:
 •	Intent Detection (Greeting, Menu, Booking, Order, Weather, etc.) 
 •	Entity Extraction (Name, City) 
@@ -17,7 +17,7 @@ The chatbot includes the following features:
 •	Order Placement 
 •	Real-time data support (Weather API optional) 
 
-**Project Folder Structure
+## Project Folder Structure
 chatbot_project/
 │
 ├── app.py
@@ -30,7 +30,7 @@ chatbot_project/
 ├── knowledge_base.json
 └── README.md
 
-**How to Run the Chatbot
+## How to Run the Chatbot
 Follow these steps:
 Step 1 – Open Terminal
 Open terminal in the project folder.
@@ -43,7 +43,7 @@ Chatbot Started (type 'bye' to exit)
 You:
 Now you can chat with the chatbot.
 
-**Example Inputs
+## Example Inputs
 Try these example inputs:
 hello
 my name is partha
@@ -53,7 +53,7 @@ booking
 weather in delhi
 bye
 
-**System Architecture
+## System Architecture
 The chatbot works using the following pipeline:
 User Input
     ↓
@@ -69,7 +69,7 @@ Rule-Based Response Generator
     ↓
 Chatbot Response
 
-**Technologies Used
+## Technologies Used
 •	Python 
 •	Regular Expressions (Regex) 
 •	JSON 
@@ -77,7 +77,7 @@ Chatbot Response
 •	Natural Language Processing (Basic) 
 •	Flask (for web integration, optional) 
 
-**Future Improvements
+## Future Improvements
 The chatbot can be improved by:
 •	Adding a database for orders 
 •	Adding a web interface 
@@ -85,3 +85,6 @@ The chatbot can be improved by:
 •	Adding voice input 
 •	Deploying on a website 
 •	Adding payment integration
+
+## Author Name 
+Partha Sarathi Sarkar
