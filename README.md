@@ -32,6 +32,7 @@ chatbot_project/
 └── README.md
 ```
 ## How to Run the Chatbot
+```
 Follow these steps:
 Step 1 – Open Terminal
 Open terminal in the project folder.
@@ -43,8 +44,9 @@ You will see:
 Chatbot Started (type 'bye' to exit)
 You:
 Now you can chat with the chatbot.
-
+```
 ## Example Inputs
+```
 Try these example inputs:
 hello
 my name is partha
@@ -53,7 +55,7 @@ order pizza
 booking
 weather in delhi
 bye
-
+```
 ## System Architecture
 The chatbot works using the following pipeline:
 User Input
