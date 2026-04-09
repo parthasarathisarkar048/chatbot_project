@@ -30,8 +30,7 @@ chatbot_project/
 ├── api_module.py
 ├── knowledge_base.json
 └── README.md
-...
-
+```
 ## How to Run the Chatbot
 Follow these steps:
 Step 1 – Open Terminal
